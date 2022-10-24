@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArhamK3008
+- 👀 I’m interested in C, C++ and C##
+- 🌱 I’m currently learning C##
